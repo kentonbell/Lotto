@@ -171,7 +171,7 @@ Only the primary structure is shown below.
 
 ## 🙏 Acknowledgements
 
-Original Author: **Alen Bell**  
+Original Author from the 1980's (doubles function): **Alen Bell**  
 Updated & Documented by: **Kenton Bell**
 
 Built using:
